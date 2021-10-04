@@ -11,7 +11,7 @@
 		    width: 100%;
 		    height: 300px;
 		    background-position: center center;
-		  background:url(http://cliquecities.com/assets/no-image-e3699ae23f866f6cbdf8ba2443ee5c4e.jpg);
+		  background:url({{ asset('assets/images/no-image.jpg') }});
 		  background-color:#fff;
 		    background-size: cover;
 		  background-repeat:no-repeat;
